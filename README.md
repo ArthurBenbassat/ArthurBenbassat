@@ -1,5 +1,5 @@
 # Welcome
-I'm love programming! I currently study for KdG for computer-science.
+I'm love programming! I currently study at KdG for computer-science.
 
 **Projects I'm proud of:**
 
